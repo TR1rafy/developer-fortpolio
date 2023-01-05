@@ -41,7 +41,9 @@ nav ul{
     background-position: bottom right , left;
 }
 /* ---------------Banner */
-
+ i{
+    padding-right: 5px;
+}
 .banner{
     margin: 0 200px;
     display: flex;
